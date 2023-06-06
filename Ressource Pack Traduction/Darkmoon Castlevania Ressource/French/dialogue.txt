@@ -1,0 +1,1358 @@
+0 ----------------
+Vous avez le pouvoir de
+tuer Dracula maintenant.
+ALLEZ !
+
+1 ----------------
+CHASSEURS DE VAMPIRES, 
+le Seigneur des Tenebres
+DRACULA s'est leve.
+
+2 ----------------
+CHASSEURS DE VAMPIRES,
+le Seigneur des Tenebres
+DRACULA s'est leve.
+Prenez le # et
+dirigez-vous vers
+Wallachia.
+
+3 ----------------
+La magie demoniaque
+de Dracula doit etre
+arretee a tout prix !
+
+4 ----------------
+Si vous voulez sauver
+cette jeune vierge,
+vous devrez me vaincre.
+
+5 ----------------
+Salutations et
+bienvenue, CHASSEURS
+DE VAMPIRES.
+
+6 ----------------
+On dit qu'une ballade
+peut briser la derniere
+barriere dans le chateau 
+d'un vampire.
+
+7 ----------------
+Vous devez trouver les
+parties du corps de
+Dracula sinon la
+malediction ne sera
+jamais levee !
+
+8 ----------------
+Prenez garde, mon
+equipage fantome vous
+enverra au fond des
+abysses !
+
+9 ----------------
+Prenez mon navire
+maudit, mais que
+cette # pende
+a votre cou comme
+une ancre !
+
+A ----------------
+La prochaine fois,
+j'embaucherai une
+bande de goules...
+
+B ----------------
+L'elfe noir a jete un
+sortilege redoutable sur
+notre prince et seul
+l'HERBE peut le
+reveiller.
+
+C ----------------
+Vous avez vaincu
+l'elfe noir et obtenu
+son prix.
+
+D ----------------
+Vous etes vraiment les
+CHASSEURS DE VAMPIRES de
+legende.
+
+E ----------------
+C'etait une bonne
+sieste. Oh, vous avez
+besoin d'aide ? Prenez
+ce vieux #.
+Je suis riche. Je
+n'en ai pas besoin.
+
+F ----------------
+C'etait une longue
+journee. Je pense que
+je vais faire une
+sieste.
+
+10 ----------------
+Snooooooooooooore!
+
+11 ----------------
+J'ai ete trahi et un
+vilain elfe a pris ma
+#! Va vers le
+redoutable marais de
+Carmilla et recupere-le.
+
+12 ----------------
+Hahaha ! Tu pensais que
+j'etais un vieux roi,
+mais non ! Je suis
+l'elfe noir! Surpris ?
+Tu ne trouveras jamais
+le # !
+
+13 ----------------
+Les sbires de Dracula
+ont bloque notre CANAL.
+Nous avons besoin de
+nitro magique, le TNT,
+pour le detruire.
+
+14 ----------------
+Est-ce de la nitro
+magique ? Fais attention
+avec ca. Tu ne veux pas
+faire exploser ce 
+#.
+
+15 ----------------
+On dit que l'ADAMANT
+peut etre utilise pour
+fabriquer une arme
+puissante dont l'eclat
+enverra tout monstre
+maudit a sa tombe.
+
+16 ----------------
+Tu as trouve l'ADAMANT
+puissant ! Laisse-moi
+te fabriquer un 
+# pour repousser
+les morts !
+
+17 ----------------
+J'ai perdu mon CRISTAL.
+Je ne peux rien voir
+sans lui. Et j'etais sur
+le point de regarder
+mes histoires !
+
+18 ----------------
+Reunissez les organes
+de Dracula ! Sauvez le
+monde de sa malediction !
+
+19 ----------------
+Normalement, je
+jetterais un sort a tout
+heros qui vient dans ma
+maison, mais puisque tu
+m'as aide, je te
+donnerai #.
+
+1A ----------------    
+Va-t-en ! Notre affaire
+est terminee.
+
+1B ----------------
+Je suis un erudit. Je
+souhaite etudier des
+tablettes anciennes.
+Apporte-moi une SLAB
+et je te revelerai sa
+signification.
+
+1C ----------------
+Tu as trouve une SLAB !
+Formidable. Je vais la
+prendre et t'apprendre
+quelques phrases de
+conversation...
+
+1D ----------------
+Je sers le seigneur
+Dracula ! Tant qu'il
+vivra, je ne pourrai
+jamais etre vaincu !
+
+1E ----------------
+J'etais autrefois un
+chasseur de vampires,
+comme toi. Prends mon
+precieux # pour
+qu'il puisse t'etre
+utile.
+
+1F ----------------
+Miserable mortel. Je
+suis le roi BAHAMUT !
+Tant que tu ne te
+seras pas montre
+heroique, tu es en
+dessous de mon attention
+
+20 ----------------
+Mmm, la QUEUE d'un rat.
+C'est tout a fait une
+delicatesse. J'accepte
+ton cadeau et te
+vous ameliore.
+
+21 ----------------
+Avec les quatre parties
+du corps de Dracula,
+le sceau de l'ORBE NOIR
+est brise ! Entre dans
+le chateau de Dracula !
+
+22 ----------------
+Ooh, l'ORBE NOIR
+brille d'une lumiere
+menacante.
+
+23 ----------------
+Merci de m'avoir
+libere. Je te donne
+# en guise de
+paiement. Maintenant, je
+dois aller hanter les
+reves des enfants.
+
+24 ----------------
+Utilise bien ce
+#. Il est
+alimente par la terreur.
+Quelle delicieuse
+perspective.
+
+25 ----------------    
+Le passeur peut te
+conduire jusqu'en Enfer,
+mais tu auras besoin
+de l'OXYALE pour te
+proteger.
+
+26 ----------------
+Chasseurs, vous avez
+l'OXYALE. Depechez-vous,
+prenez le bateau du
+passeur jusqu'aux
+portes de l'Enfer !
+
+27 ----------------
+Mon mecanisme
+d'horlogerie echoue.
+Prends ce #
+avant qu'il ne tombe
+entre de mauvaises
+mains.
+
+28 ----------------
+...
+
+29 ----------------
+Nul ne passera.
+
+2A ----------------
+Apporte-moi un RUBY
+ou je te mangerais bien
+a la place.
+
+2B ----------------
+Tu as vaincu les
+serpents des profondeurs
+de la Terre. Prends
+ce # et affronte
+la dame de la nuit,
+Carmilla.
+
+2C ----------------
+La malediction
+redoutable de Dracula
+souille les terres et
+nous rend tous malades.
+
+2D ----------------
+Montre-moi le precieux
+ou tu ne pourras pas
+entrer. Une COURONNE en
+or suffirait.
+
+2E ----------------
+Tous les 100 ans, je me
+leve et ce siecle, cette
+fois-ci, je regnerai sur
+l'humanite ! Tu veux me
+tuer ? Hahaha !
+
+2F ----------------
+Qu'est-ce qu'un homme ?
+Un tas de secrets
+miserable.
+
+30 ----------------
+Mais assez parle...
+AFFRONTE-MOI !
+
+31 ----------------
+Si vous etes les fameux
+TUEURS DE VAMPIRES,
+veuillez aller parler
+au roi.
+
+32 ----------------
+J'avais autrefois une
+famille, mais les
+monstres sont arrives...
+
+33 ----------------
+Les sbires de Dracula
+ont capture notre
+princesse pour que sa
+lumiere pure puisse 
+alimenter sa veritable
+resurrection.
+
+34 ----------------
+Elle a ete sauvee !
+Hourra !
+
+35 ----------------
+Une chanson peut chasser
+le mal du pays.
+
+36 ----------------
+On dit que Dracula se
+leve tous les 100 ans.
+
+37 ----------------
+La reine est tombee sous
+le sort de Dracula et
+est devenue folle. Nous
+avons du la sceller ici.
+
+38 ----------------
+Peut-etre qu'un jour
+Dracula sera vaincu.
+
+39 ----------------
+Etes-vous des TUEURS DE
+VAMPIRES ? Puis-je avoir
+votre autographe ?
+
+3A ----------------
+Puissiez-vous utiliser
+ceci pour vaincre les
+demons.
+
+3B ----------------
+J'entends toutes les 
+sombres ombres du pays.
+Hahaha.
+
+3C ----------------
+Les demons appellent et
+mon coeur repond.
+
+3D ----------------
+Je souhaite seulement
+que ma soeur soit
+sauvee.
+
+3E ----------------
+Dracula doit etre
+detruit !
+
+3F ----------------
+Si Dracula a la
+princesse, il l'a
+emmenee dans son chateau
+a Wallachia.
+
+40 ----------------
+Avec une CLE mystique,
+vous pourriez
+deverrouiller ces portes
+scellees.
+
+41 ----------------
+De grands tresors se
+trouvent derriere cette
+porte verrouillee.
+
+42 ----------------
+Obtenez un sac en soie
+du canard du cimetiere
+pour vivre plus
+longtemps.
+
+43 ----------------
+Dracula ne peut etre
+vaincu que par les
+fameux TUEURS DE
+VAMPIRES.
+
+44 ----------------
+Les sages du village
+de Crescent meditent
+sur les questions du
+Paradis et de l'Enfer.
+
+45 ----------------
+Vous avez trouve un
+moyen de briser le sceau
+de l'ORBE NOIR.
+Entrez dans le chateau
+de Dracula et vainquez
+le mal !
+
+46 ----------------
+Le Roi vous demande.
+
+47 ----------------
+Ma tete tourne avec
+les chants de 
+l'obscurite.
+Regardez-moi danser
+pour leur mal !
+
+48 ----------------
+Notre royaume etait
+un phare brillant,
+mais DRACULA est arrive.
+
+49 ----------------
+Une sorciere malefique
+pourrait avoir le
+pouvoir de reveiller
+les maudits.
+
+4A ----------------
+Une sorciere aurait 
+besoin d'un CRISTAL
+pour pouvoir voir
+l'avenir.
+
+4B ----------------
+Pravoka etait une jolie
+ville jusqu'a ce que des
+pirates fantome
+l'envahissent.
+
+4C ----------------
+Kriii ! Kriii !
+
+4D ----------------
+J'ai ete transforme en
+chauve-souris par une
+magie malefique. J'etais
+en colere autrefois,
+mais maintenant j'aime
+bien ca.
+
+4E ----------------
+Dracula vous attend
+au sommet du chateau.
+Vous devez vous
+depecher !
+
+4F ----------------
+Briser le sceau avec
+les parties du corps de
+Dracula pour entrer dans
+la tour.
+
+50 ----------------
+Rien ici.
+
+51 ----------------
+Nous etions autrefois 
+des TUEURS DE VAMPIRES,
+comme vous. Mais Dracula
+nous a vaincus et a fait
+de nous ses vassaux.
+
+52 ----------------
+Mec, j'allais
+devenir apprenti pirate
+fantome !
+
+53 ----------------
+On dit que la ville
+aux abords du chateau de
+Dracula a ete ruinee
+par sa horde.
+
+54 ----------------
+Les elfes restent
+entre eux.
+
+55 ----------------
+Des pirates fantome
+terrorisent notre
+ville !
+
+56 ----------------
+Avec un NAVIRE, vous
+pourriez peut-etre
+naviguer sur les
+hautes mers !
+
+57 ----------------
+Eeeek !
+
+58 ----------------
+Il est dangereux d'y
+aller seul. Soyez
+prudent.
+
+59 ----------------
+L'elfe noir a maudit le
+prince pour qu'il dorme
+pour l'eternite.
+
+5A ----------------
+Il se reveille !
+Maintenant, parlons de
+la creation d'une
+democratie
+constitutionnelle.
+
+5B ----------------
+Les nains vivent
+ensemble, exploitant
+la terre pour ses
+minerais precieux.
+
+5C ----------------
+L'elfe noir nous a
+attaques et a maudit
+notre beau prince.
+Oh, malheur !
+
+5D ----------------
+Les sorcieres s'occupent
+des herbes, mais
+mefiez-vous de leur
+magie noire.
+
+5E ----------------
+Avez-vous trouve un
+moyen de sauver
+notre prince ?
+
+5F ----------------
+J'ai entendu dire que
+le prince a le
+#. Peut-etre que
+s'il etait reveille,
+il vous le donnerait.
+
+60 ----------------
+Le marais de Carmilla
+est un endroit maudit ou
+resident des monstres.
+Mais on dit qu'un grand
+tresor s'y trouve a
+l'interieur.
+
+61 ----------------
+a l'aide ! a l'aide ! 
+Je suis opprime !
+
+62 ----------------
+Si le prince se
+reveille, il serait
+couronne notre
+nouveau roi.
+
+63 ----------------
+J'ai autrefois trouve un
+vieux chateau en ruine.
+J'avais trop peur
+d'entrer.
+
+64 ----------------
+Ils ont massacre
+l'elfe noir ! Hourra !
+
+65 ----------------
+Les elfes noirs sont des
+maitres du deguisement.
+Mefiez-vous-en.
+
+66 ----------------
+Le prince doit se
+reveiller. Nous avons
+de nombreux projets
+d'ouvrages publics
+a discuter.
+
+67 ----------------
+Autrefois, les gens de
+ce monde volaient dans
+le ciel a bord de
+puissants DIRIGEABLES.
+Peut-etre qu'il en reste
+encore un quelque part.
+
+68 ----------------
+L'argent brille et
+repousse le mal.
+
+69 ----------------
+Pour obtenir un
+DIRIGEABLE, il vous faut
+un FLOTTEUR. Du moins,
+c'est ce qu'on dit...
+
+6A ----------------
+Peut-etre que le
+FLOTTEUR pourrait etre
+utilise dans un desert ?
+ca vaut le coup
+d'essayer...
+
+6B ----------------
+J'ai soutenu la
+princesse elfe pour
+prendre le trone,
+mais j'ai ete
+outrepasse.
+
+6C ----------------
+La legende dit qu'un
+FLOTTEUR peut faire 
+voler n'importe quoi.
+
+6D ----------------
+Le vieux Nerrick
+pourrait avoir les
+connaissances que
+vous recherchez.
+
+6E ----------------
+Nerrick passe ses
+journees a creuser un
+chemin vers le monde
+souterrain.
+
+6F ----------------
+Je peux voir l'ombre
+sur ton ame.
+
+70 ----------------
+Beardy McSwordsmith est
+le plus grand armurier
+du monde.
+
+71 ----------------
+Avec un CRISTAL, vous
+pouvez tout voir.
+
+72 ----------------
+La malediction de
+Dracula se propagera !
+Nous sommes condamnes !
+
+73 ----------------
+Oh, je suppose que nous
+ne sommes pas condamnes
+apres tout.
+
+74 ----------------
+Portez une armure et
+vous vivrez plus
+longtemps.
+
+75 ----------------
+Nerrick a ouvert un
+trou vers la mer !
+Nous allons tous
+se noyer !
+
+76 ----------------
+On dit que la nitro
+magique, le TNT,
+peut briser n'importe
+quel bloc.
+
+77 ----------------
+MORT a L'AUBE !
+MORT a L'AUBE !
+
+78 ----------------
+Verification de la
+carte, buvez !
+
+79 ----------------
+Un vampire absorbe la
+puissance de la terre.
+
+7A ----------------
+Melmond etait autrefois
+une belle ville. Bien
+sur, j'ai du demenager
+ici juste avant
+l'eclatement de la bulle
+immobiliere.
+
+7B ----------------
+Les Titans mangent des
+rubis et aussi la chair
+de l'homme.
+
+7C ----------------
+Vous avez tue un
+vampire. Maintenant
+allez tuer Dracula.
+
+7D ----------------
+Je suis le
+collectionneur d'os.
+Dites, combien pour
+votre omoplate ?
+
+7E ----------------
+Un vampire reside dans
+la Grotte de la Terre.
+
+7F ----------------
+La legende dit qu'un
+vampire ne peut etre
+vaincu que par la
+cremation de son ancien
+corps, affaiblissant
+ainsi la bete demoniaque
+
+80 ----------------
+Everyone says this town
+is cursed but I like it
+here.
+
+81 ----------------
+Have you heard of the
+VAMPIRE KILLERS?
+
+82 ----------------
+Sarda lives by himself,
+studying the lore of
+the vampires.
+
+83 ----------------
+I think it would be
+neat to be a vampire.
+
+84 ----------------
+Melmond was once a
+lovely town but now
+it's just a wasteland.
+
+85 ----------------
+Each piece of Dracula
+will weaken the beast.
+
+86 ----------------
+You defeated the beasts
+in the Earth Cave.
+Truly you are the
+VAMPIRE KILLERS.
+
+87 ----------------
+If I could just find a
+FLOATER I could fly
+across the world.
+
+88 ----------------
+That's a mighty fine
+AIRSHIP.
+
+89 ----------------
+Sarda does not fear
+evil. He thrives
+among the darkness.
+
+8A ----------------
+Yes, yes, very good.
+Now go away.
+
+8B ----------------
+Shh, don't tell the
+dwarves I'm here!
+
+8C ----------------
+Don't bother me while
+I'm contemplating the
+nature of existence.
+
+8D ----------------
+Dracula rises every 100
+years, but sometimes he
+is resurrected into a
+new body. His old body,
+though, still holds
+great power.
+
+8E ----------------
+Rib, Claw, Eye, and
+Heart. Dracula is
+controlled by them.
+
+8F ----------------
+Supposedly there's also
+a fang, but perhaps
+that's a lie.
+
+90 ----------------
+The four minions of
+Dracula protect his
+power and defend him
+from heroes.
+
+91 ----------------
+The Twin Dragons lurk
+deep in the Earth Cave.
+
+92 ----------------
+Carmilla stalks the
+night and feeds on the
+blood of virgin girls!
+
+93 ----------------
+As you collect the
+parts of Dracula we
+will tell you more of
+the legends.
+
+94 ----------------
+Collect the body parts!
+Defeat the Dark Prince!
+
+95 ----------------
+Carmilla hides in the
+Jam Wasteland. Quickly!
+Descend into its depths
+and destroy her!
+
+96 ----------------
+Dracula's Castle is a
+creature of chaos and
+the true source of his
+power.
+
+97 ----------------
+With four pieces of
+Dracula you could break
+the seal barring the
+way into his keep.
+
+98 ----------------
+Evil monsters plague
+the lands!
+
+99 ----------------
+Dracula comes back
+every 100 years,
+almost like a loop
+in time. Hmm...
+
+9A ----------------
+Dracula sealed his
+castle and sent out
+his minions to protect
+his old body.
+
+9B ----------------
+Dracula hides in his
+castle. Without the
+power to break his
+seal you'll never
+defeat him.
+
+9C ----------------
+I serve lord Dracula
+and will see him rise
+again. Uh, I mean...
+
+9D ----------------
+When Dracula defeats
+heroes he doesn't just
+kill them. He turns
+them into his vassals.
+
+9E ----------------
+Kill the vampires and
+defeat the evil!
+
+9F ----------------
+I once knew the
+location of the FLOATER
+but I forgot it. I bet
+it's nearby...
+
+A0 ----------------
+If you truly are the
+VAMPIRE KILLERS then we
+might just be saved.
+
+A1 ----------------
+Go, VAMPIRE KILLERS!
+Only you an defeat
+the Dark Prince.
+
+A2 ----------------
+A kooky doctor once
+boasted he could read
+any language...
+
+A3 ----------------
+That looks like a an
+interesting language.
+Perhaps there's someone
+that can translate it?
+
+A4 ----------------
+Have you found OXYALE?
+
+A5 ----------------
+You have legs!
+Give them to me!
+
+A6 ----------------
+This land is cursed.
+I wish I could go back
+under the sea.
+
+A7 ----------------
+I once found a strange
+caravan when I was lost
+in the desert. I've
+never found it again...
+
+A8 ----------------
+There was once a lovely
+shrine to the sea, but
+the Grim Reaper sake it
+to the ocean's floor.
+
+A9 ----------------
+Water was our friend,
+until the Grim Reaper
+sank our shrine.
+
+AA ----------------
+You have restored our
+connection to the sea!
+
+AB ----------------
+I once met a dragon who
+could turn me into a
+great hero, but he
+demanded gourmet food
+as payment.
+
+AC ----------------
+Well, isn't someone
+mister high and mighty!
+
+AD ----------------
+Boo! I'm a sea ghost!
+
+AE ----------------
+Pst, there's a caravan
+hidden near an oasis.
+You didn't hear it from
+me, though.
+
+AF ----------------
+Don't listen to him
+Sea ghosts don't exist.
+
+B0 ----------------
+The only way to get to
+the underworld is to
+talk to the Ferryman.
+
+B1 ----------------
+I am Kope, mighty hero
+of legend. Perhaps
+you've heard of me?
+
+B2 ----------------
+This town used to be
+nice. And then the
+Grim Reaper ruined it.
+
+B3 ----------------
+I had a fleaman, but he
+ran away. I miss him.
+
+B4 ----------------
+Glub glub.
+
+B5 ----------------
+Don't kill me!
+
+B6 ----------------
+The Grim Reaper will
+come for you, too.
+
+B7 ----------------
+I seek only death!
+
+B8 ----------------
+The Grim Reaper awaits
+in the depth of the
+underworld.
+
+B9 ----------------
+VAMPIRE KILLERS are
+just a myth.
+
+BA ----------------
+The water is befouled,
+just like the land.
+
+BB ----------------
+The sea is saved! Now
+to wage war against
+the humans!
+
+BC ----------------
+One of our kind went
+to the land. She is
+dead to us now.
+
+BD ----------------
+You're human but you
+haven't drowned!
+Evil! EVIL!
+
+BE ----------------
+Magical tunes can
+access many locked
+entrances.
+
+BF ----------------
+This door is locked by
+the mystic KEY.
+
+C0 ----------------
+Welcome to Gaia.
+We swear we aren't
+in league with the
+vampires.
+
+C1 ----------------
+The Lefenish do not
+speak our language.
+
+C2 ----------------
+Once you could travel
+through the sky, but
+those days are long
+behind us.
+
+C3 ----------------
+Evil comes in many
+forms. Beware!
+
+C4 ----------------
+We built this town in
+the worst place for
+trade.
+
+C5 ----------------
+I hear there's a crazy
+doctor that actually
+tried to study the
+Lefenish language.
+
+C6 ----------------
+The spring is cursed.
+Only an nightmare
+creature can access it.
+
+C7 ----------------
+I feel evil coming from
+the stones in the
+desert.
+
+C8 ----------------
+I got rid of the evil
+fairy living at the
+spring. Put her in a
+BOTTLE and sold her to
+a traveling caravan.
+
+C9 ----------------
+Are you truly strong
+enough to defeat the
+vampires? Prove it.
+
+CA ----------------
+REDRUM! REDRUM!
+
+CB ----------------
+Brooms are inherently
+quite evil.
+
+CC ----------------
+Someone stole that nice
+fairy. Mother said I
+shouldn't talk to her
+but I did and now I
+miss her.
+
+CD ----------------
+Perhaps you can use
+this #
+in your fight against
+evil.
+
+CE ----------------
+Once you could access
+the palace in the sky
+but then the tower was
+destroyed by an evil
+mechanical creature.
+
+CF ----------------
+Things were better
+in the before times.
+
+D0 ----------------
+Lu..pa..?
+Lu..pa..?
+
+D1 ----------------
+When Dracula rose we
+sent our best heroes
+to destroy him. They
+never returned.
+
+D2 ----------------
+A place once floated
+in the sky. I wonder
+if it's still there.
+
+D3 ----------------
+Only true VAMPIRE
+KILLERS can defeat
+real evil. Are you...
+
+D4 ----------------
+A mad doctor put his
+creation into the sky
+palace, then the beast
+sealed the only way
+inside.
+
+D5 ----------------
+We sent our greatest
+warriors to save the
+world, and then
+Dracula defeated them.
+
+D6 ----------------
+Dracula's minions were
+too strong for our
+greatest heroes. What
+chance do you have?
+
+D7 ----------------
+Dracula is the king of
+the vampires. Is he a
+kindly king?
+
+D8 ----------------
+VAMPIRE KILLERS? Here?
+I never thought I'd
+see the day.
+
+D9 ----------------
+Our technology once
+powered the world until
+a mad doctor stole it
+for his necromancy.
+
+DA ----------------
+Our technology now is
+only used for evil.
+
+DB ----------------
+VLAD DRACULA
+May he stay
+forever dead.
+
+DC ----------------
+Golems can be used
+for good... and evil.
+
+DD ----------------
+A glittering castle
+can sometimes be seen
+high in the sky.
+
+DE ----------------
+Perhaps, with a CUBE,
+you could find a way
+to access the floating
+castle again.
+
+DF ----------------
+No deposit, no return.
+
+E0 ----------------
+Master... Frankenstein?
+
+E1 ----------------
+The evils of the land
+seem so distant from
+up here.
+
+E2 ----------------
+Only the truly brave
+can gain an audience
+with a dragon.
+
+E3 ----------------
+Treasure gleams!
+
+E4 ----------------
+You shall never take
+my hoard!
+
+E5 ----------------
+Most humans run at the
+sight of monsters.
+
+E6 ----------------
+Humans are more foul
+than the curse upon
+this land.
+
+E7 ----------------
+It is said that the
+Castle of Ordeals is
+a true test of courage.
+
+E8 ----------------
+Prove your worth and
+become the true
+VAMPIRE KILLERS.
+
+E9 ----------------
+Dragons like their
+treasure, but they also
+know true courage when
+they see it.
+
+EA ----------------
+Be strong and save the
+world, or be weak and
+be devoured by it.
+
+EB ----------------
+This world was once
+grand, but then the
+vampires came.
+
+EC ----------------
+Leave me alone.
+
+ED ----------------
+You reek of humanity.
+
+EE ----------------
+Plot for rent.
+
+EF ----------------
+You can hear the
+screams of the damned
+from deep in Hell. No,
+wait, that was just
+your imagiantion.
+
+F0 ----------------
+In the treasure box,
+you found.. #
+
+F1 ----------------
+Can't hold
+
+F2 ----------------
+The treasure box is
+empty!
+
+F3 ----------------
+The cleansing altar.
+
+F4 ----------------
+The cleansing altar.
+
+F5 ----------------
+The cleansing altar.
+
+F6 ----------------
+The cleansing altar.
+
+F7 ----------------
+You could swear you see
+something deep within.
+
+F8 ----------------
+FRANKEN guards the
+place in the sky.
+
+F9 ----------------
+You once could see the
+beauty of the world.
+Now I only see the
+curse that plagues it.
+
+FA ----------------
+From deep within the
+Earth two serpents
+rise! You face the
+TWIN DRAGONS!
+
+FB ----------------
+Many mortal men have
+tried to defeat me.
+You are no different.
+Try and kill me,
+CARMILLA, if you can.
+
+FC ----------------
+You ventured deep into
+the underworld and
+here it will be your
+tomb. Fight me, the
+GRIM REAPER!
+
+FD ----------------
+Master say must defend
+castle. You want body?
+You must die! I am
+FRANKEN and I follow
+my master's orders.
+
+FE ----------------
+You can understand me?
+I, uh, didn't mean
+what I said earlier...
+
+FF ----------------
+Evil emanates from
+deep under this stone.
