@@ -1,1380 +1,1358 @@
 0 ----------------
-Nothing here.
+Vous avez le pouvoir de
+tuer Dracula maintenant.
+ALLEZ !
 
 1 ----------------
-LIGHT WARRIORS.. Just as
-in Lukahn's prophecy.
-Garland has kidnapped
-the Princess. Please
-help her!!
+CHASSEURS DE VAMPIRES, 
+le Seigneur des Tenebres
+DRACULA s'est leve.
 
 2 ----------------
-SHIP
+CHASSEURS DE VAMPIRES,
+le Seigneur des Tenebres
+DRACULA s'est leve.
+Prenez le # et
+dirigez-vous vers
+Wallachia.
 
 3 ----------------
-The Princess always
-worries about you.
+La magie demoniaque
+de Dracula doit etre
+arretee a tout prix !
 
 4 ----------------
-No one touches my
-Princess!!
-LIGHT WARRIORS??
-You impertinent fools.
-I, Garland, will knock
-you all down!!
+Si vous voulez sauver
+cette jeune vierge,
+vous devrez me vaincre.
 
 5 ----------------
-So, you are the
-LIGHT WARRIORS!
-Thank you.
+Salutations et
+bienvenue, CHASSEURS
+DE VAMPIRES.
 
 6 ----------------
-This LUTE has been
-passed down from Queen
-to Princess for 2000
-years. Garland stole it
-when he kidnapped me.
-Please accept it as my
-gift, it just might come
-in handy.
+On dit qu'une ballade
+peut briser la derniere
+barriere dans le chateau 
+d'un vampire.
 
 7 ----------------
-Now, get ready for your
-trip, and make the ORBS
-shine again.
+Vous devez trouver les
+parties du corps de
+Dracula sinon la
+malediction ne sera
+jamais levee !
 
 8 ----------------
-Aye, I am Bikke the
-Pirate, and surprised I
-am that you scurvy dogs
-have the nerve to face
-me.
-Mates!
-Get those landlubbers!
+Prenez garde, mon
+equipage fantome vous
+enverra au fond des
+abysses !
 
 9 ----------------
-Okay, you got me.
-Take my SHIP.
+Prenez mon navire
+maudit, mais que
+cette # pende
+a votre cou comme
+une ancre !
 
 A ----------------
-I won't be any more
-bother. I promise.
+La prochaine fois,
+j'embaucherai une
+bande de goules...
 
 B ----------------
-For five years the
-Prince has slept
-under Astos' spell.
-Only HERB can wake him!
+L'elfe noir a jete un
+sortilege redoutable sur
+notre prince et seul
+l'HERBE peut le
+reveiller.
 
 C ----------------
-Oh, this HERB will
-release the Prince from
-Astos' curse. Look!
-He is waking..
+Vous avez vaincu
+l'elfe noir et obtenu
+son prix.
 
 D ----------------
-Thank you.
-Peace will return to
-ElfLand.
+Vous etes vraiment les
+CHASSEURS DE VAMPIRES de
+legende.
 
 E ----------------
-Is this a dream?..
-Are you, the
-LIGHT WARRIORS?..
-Is this for real?..
-So, as legend says,
-I give you the mystic
-KEY.
+C'etait une bonne
+sieste. Oh, vous avez
+besoin d'aide ? Prenez
+ce vieux #.
+Je suis riche. Je
+n'en ai pas besoin.
 
 F ----------------
-I feel fine now.
-Thank you.
+C'etait une longue
+journee. Je pense que
+je vais faire une
+sieste.
 
 10 ----------------
-z....z....
+Snooooooooooooore!
 
 11 ----------------
-Astos double-crossed us.
-Go south, to the Cave of
-Marsh, to retrieve the
-CROWN. Then, bring it
-directly back to me!
+J'ai ete trahi et un
+vilain elfe a pris ma
+#! Va vers le
+redoutable marais de
+Carmilla et recupere-le.
 
 12 ----------------
-tis I, Astos, all along!!
-I'll take that CROWN and 
-you'll pry the 
-from my cold dead hands!
+Hahaha ! Tu pensais que
+j'etais un vieux roi,
+mais non ! Je suis
+l'elfe noir! Surpris ?
+Tu ne trouveras jamais
+le # !
 
 13 ----------------
-A rock blocks
-construction of my
-canal.
-If I only had TNT.
+Les sbires de Dracula
+ont bloque notre CANAL.
+Nous avons besoin de
+nitro magique, le TNT,
+pour le detruire.
 
 14 ----------------
-Oh, wonderful!
-Nice work! Yes, yes
-indeed, this TNT is just
-what I need to finish my
-canal. Now excuse me
-while I get to work!
+Est-ce de la nitro
+magique ? Fais attention
+avec ca. Tu ne veux pas
+faire exploser ce 
+#.
 
 15 ----------------
-For the LIGHT
-WARRIORS I will make a
-truly legendary sword.
-However, my supply of
-ADAMANT is exhausted.
+On dit que l'ADAMANT
+peut etre utilise pour
+fabriquer une arme
+puissante dont l'eclat
+enverra tout monstre
+maudit a sa tombe.
 
 16 ----------------
-ADAMANT!!
-Now let me make
-the sword for you..
-Here, the best work I've
-ever done.
-It is my gift.
+Tu as trouve l'ADAMANT
+puissant ! Laisse-moi
+te fabriquer un 
+# pour repousser
+les morts !
 
 17 ----------------
-Where is my CRYSTAL?
-I can't see anything
-without it.. Who stole
-my CRYSTAL?
+J'ai perdu mon CRISTAL.
+Je ne peux rien voir
+sans lui. Et j'etais sur
+le point de regarder
+mes histoires !
 
 18 ----------------
-WARRIORS.
-Revive the Power of
-the ORBS!
+Reunissez les organes
+de Dracula ! Sauvez le
+monde de sa malediction !
 
 19 ----------------
-The Prince needs HERB?
-I'll trade the most
-powerful HERB to get my
-CRYSTAL back..
-Oh! I can see!!
+Normalement, je
+jetterais un sort a tout
+heros qui vient dans ma
+maison, mais puisque tu
+m'as aide, je te
+donnerai #.
 
-1A ----------------
-You have no more
-business here. Go!!
+1A ----------------    
+Va-t-en ! Notre affaire
+est terminee.
 
 1B ----------------
-Everybody knows me.
-What?! You've never
-heard of Dr. Unne?
+Je suis un erudit. Je
+souhaite etudier des
+tablettes anciennes.
+Apporte-moi une SLAB
+et je te revelerai sa
+signification.
 
 1C ----------------
-A SLAB!!
-This SLAB will lead us
-to solve the riddle of
-the Lefeinish!!
-Now, listen to me..
+Tu as trouve une SLAB !
+Formidable. Je vais la
+prendre et t'apprendre
+quelques phrases de
+conversation...
 
 1D ----------------
-All living things were
-born to die.
-No one can defeat me,
-the Vampire!!
+Je sers le seigneur
+Dracula ! Tant qu'il
+vivra, je ne pourrai
+jamais etre vaincu !
 
 1E ----------------
-Use this ROD behind the
-Vampire's room. Hiding
-deep inside you will
-find the cause of the
-earth's rot.
+J'etais autrefois un
+chasseur de vampires,
+comme toi. Prends mon
+precieux # pour
+qu'il puisse t'etre
+utile.
 
 1F ----------------
-I am BAHAMUT, King of
-the Dragons. Bring me
-proof of your courage,
-to receive the honor
-due true Warriors.
+Miserable mortel. Je
+suis le roi BAHAMUT !
+Tant que tu ne te
+seras pas montre
+heroique, tu es en
+dessous de mon attention
 
 20 ----------------
-The TAIL of a rat proves
-your courage. I shall
-give you the honor due
-true Warriors.
+Mmm, la QUEUE d'un rat.
+C'est tout a fait une
+delicatesse. J'accepte
+ton cadeau et te
+vous ameliore.
 
 21 ----------------
-The four ORBS now cover
-the black ORB..
-To take a step forward
-is to go back 2000 years
-in time.
+Avec les quatre parties
+du corps de Dracula,
+le sceau de l'ORBE NOIR
+est brise ! Entre dans
+le chateau de Dracula !
 
 22 ----------------
-The black ORB
-glitters ominously..
-But nothing happens.
+Ooh, l'ORBE NOIR
+brille d'une lumiere
+menacante.
 
 23 ----------------
-That pirate trapped me
-in the BOTTLE.
-I will draw OXYALE from
-the bottom of the spring
-for you.
+Merci de m'avoir
+libere. Je te donne
+# en guise de
+paiement. Maintenant, je
+dois aller hanter les
+reves des enfants.
 
 24 ----------------
-Thank you for saving me.
-Remember! OXYALE will
-give you air.
+Utilise bien ce
+#. Il est
+alimente par la terreur.
+Quelle delicieuse
+perspective.
 
-25 ----------------
-I made a submarine to
-save the mermaids. But,
-to go deep enough it
-will require OXYALE.
+25 ----------------    
+Le passeur peut te
+conduire jusqu'en Enfer,
+mais tu auras besoin
+de l'OXYALE pour te
+proteger.
 
 26 ----------------
-WARRIORS, you have
-OXYALE. The mermaids
-wait, please help them!
+Chasseurs, vous avez
+l'OXYALE. Depechez-vous,
+prenez le bateau du
+passeur jusqu'aux
+portes de l'Enfer !
 
 27 ----------------
-Take this CUBE. With it,
-you can transfer to the
-FLOATING CASTLE.
+Mon mecanisme
+d'horlogerie echoue.
+Prends ce #
+avant qu'il ne tombe
+entre de mauvaises
+mains.
 
 28 ----------------
-Please..
+...
 
 29 ----------------
-No one passes this road.
+Nul ne passera.
 
 2A ----------------
-If you want pass, give
-me the RUBY..
-Crunch, crunch, crunch,
-mmm, it tastes so sweet.
-Rubies are my favorite.
+Apporte-moi un RUBY
+ou je te mangerais bien
+a la place.
 
 2B ----------------
-Great job vanquishing
-the Earth FIEND. Now,
-the Fire FIEND wakes.
-With this CANOE go to
-the VOLCANO, and defeat
-that FIEND also!
+Tu as vaincu les
+serpents des profondeurs
+de la Terre. Prends
+ce # et affronte
+la dame de la nuit,
+Carmilla.
 
 2C ----------------
-400 years ago, we lost
-control of the Wind.
-200 years later we lost
-the Water, then Earth,
-and Fire followed. The
-Powers that bind this
-world are gone.
+La malediction
+redoutable de Dracula
+souille les terres et
+nous rend tous malades.
 
 2D ----------------
-Possession of the CROWN
-is required to test your
-courage. Take it to the
-royal throne, and bring
-back proof of your
-courage. GOOD LUCK!
+Montre-moi le precieux
+ou tu ne pourras pas
+entrer. Une COURONNE en
+or suffirait.
 
 2E ----------------
-Remember me, Garland?
-Your puny lot thought it
-had defeated me. But,
-the Four FIENDS sent me
-back 2000 years into
-the past.
+Tous les 100 ans, je me
+leve et ce siecle, cette
+fois-ci, je regnerai sur
+l'humanite ! Tu veux me
+tuer ? Hahaha !
 
 2F ----------------
-From here I sent the
-Four FIENDS to the
-future. The FIENDS will
-send me back to here,
-and the Time-Loop will
-go on.
+Qu'est-ce qu'un homme ?
+Un tas de secrets
+miserable.
 
 30 ----------------
-After 2000 years, I will
-be forgotten, and the
-Time-Loop will close. I
-will live forever, and
-you shall meet doom!!
+Mais assez parle...
+AFFRONTE-MOI !
 
 31 ----------------
-The King is looking for
-the LIGHT WARRIORS. You
-do not happen to be them
-do you?
+Si vous etes les fameux
+TUEURS DE VAMPIRES,
+veuillez aller parler
+au roi.
 
 32 ----------------
-Yes Sir!!
-I belong to the Honor
-Guard of Castle Coneria.
+J'avais autrefois une
+famille, mais les
+monstres sont arrives...
 
 33 ----------------
-Please!
-Save the Princess!
+Les sbires de Dracula
+ont capture notre
+princesse pour que sa
+lumiere pure puisse 
+alimenter sa veritable
+resurrection.
 
 34 ----------------
-Thank you for rescuing
-the Princess.
+Elle a ete sauvee !
+Hourra !
 
 35 ----------------
-Legend says that the
-LUTE can break the evil
-gate.
+Une chanson peut chasser
+le mal du pays.
 
 36 ----------------
-Garland used to be a
-good knight until..
+On dit que Dracula se
+leve tous les 100 ans.
 
 37 ----------------
-In sadness, the Queen
-locked herself inside.
+La reine est tombee sous
+le sort de Dracula et
+est devenue folle. Nous
+avons du la sceller ici.
 
 38 ----------------
-The Princess was
-looking for you!
+Peut-etre qu'un jour
+Dracula sera vaincu.
 
 39 ----------------
-So, you are the
-LIGHT WARRIORS?
+Etes-vous des TUEURS DE
+VAMPIRES ? Puis-je avoir
+votre autographe ?
 
 3A ----------------
-Here, take this
-
+Puissiez-vous utiliser
+ceci pour vaincre les
+demons.
 
 3B ----------------
-I am Jane, Queen of
-Coneria. Please save my
-daughter, Princess Sara.
+J'entends toutes les 
+sombres ombres du pays.
+Hahaha.
 
 3C ----------------
-Thank you for saving
-Princess Sara.
+Les demons appellent et
+mon coeur repond.
 
 3D ----------------
-Oh.. My sister..
+Je souhaite seulement
+que ma soeur soit
+sauvee.
 
 3E ----------------
-My sister is back safe!
-Thank you.
+Dracula doit etre
+detruit !
 
 3F ----------------
-Reports say that Garland
-holds the Princess in a
-Temple to the northwest.
+Si Dracula a la
+princesse, il l'a
+emmenee dans son chateau
+a Wallachia.
 
 40 ----------------
-Use that KEY. Inside
-what you find will be
-quite helpful.
+Avec une CLE mystique,
+vous pourriez
+deverrouiller ces portes
+scellees.
 
 41 ----------------
-400 years ago the
-Treasury was locked by
-the mystic KEY. Our
-ancestors gave the KEY
-to the Prince of ElfLand
-for safekeeping.
+De grands tresors se
+trouvent derriere cette
+porte verrouillee.
 
 42 ----------------
-This treasure room is
-locked with the mystical
-KEY.
+Obtenez un sac en soie
+du canard du cimetiere
+pour vivre plus
+longtemps.
 
 43 ----------------
-The King is sure that
-someday the LIGHT
-WARRIORS will come to
-save the Princess,
-just as in Lukahn's
-prophecy.
+Dracula ne peut etre
+vaincu que par les
+fameux TUEURS DE
+VAMPIRES.
 
 44 ----------------
-Lukahn left this town,
-to join his colleagues
-at Crescent Lake.
+Les sages du village
+de Crescent meditent
+sur les questions du
+Paradis et de l'Enfer.
 
 45 ----------------
-As legend foretold, once
-again the ORBS shine!!
-Quickly, to fulfill the
-legend, take them to the
-Temple north of here,
-and stand in the center.
+Vous avez trouve un
+moyen de briser le sceau
+de l'ORBE NOIR.
+Entrez dans le chateau
+de Dracula et vainquez
+le mal !
 
 46 ----------------
-Go to the King.
+Le Roi vous demande.
 
 47 ----------------
-I am Arylon, the Dancer!
+Ma tete tourne avec
+les chants de 
+l'obscurite.
+Regardez-moi danser
+pour leur mal !
 
 48 ----------------
-This is Coneria, the
-dream city.
+Notre royaume etait
+un phare brillant,
+mais DRACULA est arrive.
 
 49 ----------------
-North of Coneria lives
-a witch named Matoya.
+Une sorciere malefique
+pourrait avoir le
+pouvoir de reveiller
+les maudits.
 
 4A ----------------
-Matoya has poor
-eyesight. She needs the
-CRYSTAL to see.
+Une sorciere aurait 
+besoin d'un CRISTAL
+pour pouvoir voir
+l'avenir.
 
 4B ----------------
-My home is Pravoka, a
-beautiful port city far
-east of here.
+Pravoka etait une jolie
+ville jusqu'a ce que des
+pirates fantome
+l'envahissent.
 
 4C ----------------
-Kee..Kee..
+Kriii ! Kriii !
 
 4D ----------------
-Help! The FIEND's curse
-turned us into bats.
-With the ORBS shining
-anew, once again we
-can speak!
+J'ai ete transforme en
+chauve-souris par une
+magie malefique. J'etais
+en colere autrefois,
+mais maintenant j'aime
+bien ca.
 
 4E ----------------
-The Four FIENDS power
-is rooted 2000 years
-ago. The real enemy is
-in that time.
+Dracula vous attend
+au sommet du chateau.
+Vous devez vous
+depecher !
 
 4F ----------------
-When the 4 ORBS cover
-the black ORB in the
-center of the palace,
-the Time Gate can open.
+Briser le sceau avec
+les parties du corps de
+Dracula pour entrer dans
+la tour.
 
 50 ----------------
-You must travel back in
-time 2000 years. Now,
-with the ORBS shining,
-stand in the Time Gate.
+Rien ici.
 
 51 ----------------
-We are the five lost
-SKY WARRIORS. 400 years
-ago we battled against
-the cause of the world's
-destruction.
+Nous etions autrefois 
+des TUEURS DE VAMPIRES,
+comme vous. Mais Dracula
+nous a vaincus et a fait
+de nous ses vassaux.
 
 52 ----------------
-Thank you. We don't need
-to be afraid of pirates
-anymore.
+Mec, j'allais
+devenir apprenti pirate
+fantome !
 
 53 ----------------
-I have escaped from
-Melmond, in the west.
-My town is in trouble.
-Please help them!!
+On dit que la ville
+aux abords du chateau de
+Dracula a ete ruinee
+par sa horde.
 
 54 ----------------
-The Elves live across
-the sea. Matoya's HERB
-is the only thing that
-will wake their Prince.
+Les elfes restent
+entre eux.
 
 55 ----------------
-This town has been
-invaded by pirates.
+Des pirates fantome
+terrorisent notre
+ville !
 
 56 ----------------
-Ships can stop only at
-ports. There are no
-ports in the north.
+Avec un NAVIRE, vous
+pourriez peut-etre
+naviguer sur les
+hautes mers !
 
 57 ----------------
-Help!
+Eeeek !
 
 58 ----------------
-There are many dangerous
-monsters in the sea.
-Be careful!
+Il est dangereux d'y
+aller seul. Soyez
+prudent.
 
 59 ----------------
-Astos put the Prince to
-sleep.
-Please! Save him!
+L'elfe noir a maudit le
+prince pour qu'il dorme
+pour l'eternite.
 
 5A ----------------
-The Prince is awake!
-Thank you so much.
+Il se reveille !
+Maintenant, parlons de
+la creation d'une
+democratie
+constitutionnelle.
 
 5B ----------------
-The Cave of Dwarf is at
-the west end of the Aldi
-Sea.
+Les nains vivent
+ensemble, exploitant
+la terre pour ses
+minerais precieux.
 
 5C ----------------
-Without warning, Astos
-attacked our castle. Our
-Prince was laid under a
-curse, and our treasury
-ransacked.
+L'elfe noir nous a
+attaques et a maudit
+notre beau prince.
+Oh, malheur !
 
 5D ----------------
-It is said there is a
-witch who has HERBS.
-I believe that her name
-is..
-Matoya!
+Les sorcieres s'occupent
+des herbes, mais
+mefiez-vous de leur
+magie noire.
 
 5E ----------------
-Is that it? The HERB to
-save the Prince?
+Avez-vous trouve un
+moyen de sauver
+notre prince ?
 
 5F ----------------
-The Prince keeps the
-mystic KEY until the
-coming of the
-LIGHT WARRIORS.
+J'ai entendu dire que
+le prince a le
+#. Peut-etre que
+s'il etait reveille,
+il vous le donnerait.
 
 60 ----------------
-Maybe it's only rumour,
-but, I think the cause
-of all problems is to
-be found in the cave of
-Marsh.
+Le marais de Carmilla
+est un endroit maudit ou
+resident des monstres.
+Mais on dit qu'un grand
+tresor s'y trouve a
+l'interieur.
 
 61 ----------------
-Save our Prince!
+a l'aide ! a l'aide ! 
+Je suis opprime !
 
 62 ----------------
-Our Prince was to
-become the King of
-ElfLand.
+Si le prince se
+reveille, il serait
+couronne notre
+nouveau roi.
 
 63 ----------------
-Long ago I wandered to
-the Northwest. I found
-an ancient castle that
-was so spooky, I left
-immediately.
+J'ai autrefois trouve un
+vieux chateau en ruine.
+J'avais trop peur
+d'entrer.
 
 64 ----------------
-Astos has been defeated?
-Peace will now return to
-ElfLand.
+Ils ont massacre
+l'elfe noir ! Hourra !
 
 65 ----------------
-Astos wears a disguise,
-and lurks in seclusion.
+Les elfes noirs sont des
+maitres du deguisement.
+Mefiez-vous-en.
 
 66 ----------------
-The Prince must wake
-soon, or the power of
-the Dark Elf will
-dominate!
+Le prince doit se
+reveiller. Nous avons
+de nombreux projets
+d'ouvrages publics
+a discuter.
 
 67 ----------------
-Legend says an AIRSHIP
-is buried somewhere.
+Autrefois, les gens de
+ce monde volaient dans
+le ciel a bord de
+puissants DIRIGEABLES.
+Peut-etre qu'il en reste
+encore un quelque part.
 
 68 ----------------
-Swords and armors made
-of silver are
-very powerful.
+L'argent brille et
+repousse le mal.
 
 69 ----------------
-I can see a cave above
-the crescent..
-To the north of the
-volcano, there you will
-find the FLOATER.
+Pour obtenir un
+DIRIGEABLE, il vous faut
+un FLOTTEUR. Du moins,
+c'est ce qu'on dit...
 
 6A ----------------
-In the desert south of
-the crescent, something
-is emerging from below
-the sand..
-Use the FLOATER!
+Peut-etre que le
+FLOTTEUR pourrait etre
+utilise dans un desert ?
+ca vaut le coup
+d'essayer...
 
 6B ----------------
-The Prince must wake
-soon, or the Dark Elf
-will dominate!
+J'ai soutenu la
+princesse elfe pour
+prendre le trone,
+mais j'ai ete
+outrepasse.
 
 6C ----------------
-I'm looking for the
-FLOATER. I'll bet with
-it I could float
-anything.
+La legende dit qu'un
+FLOTTEUR peut faire 
+voler n'importe quoi.
 
 6D ----------------
-Old Nerrick is a very
-respectable Dwarf.
+Le vieux Nerrick
+pourrait avoir les
+connaissances que
+vous recherchez.
 
 6E ----------------
-That sound?
-Nerrick is digging a
-canal.
+Nerrick passe ses
+journees a creuser un
+chemin vers le monde
+souterrain.
 
 6F ----------------
-Dwarves can see in the
-dark!
+Je peux voir l'ombre
+sur ton ame.
 
 70 ----------------
-Did you meet Smith,
-our blacksmith?
+Beardy McSwordsmith est
+le plus grand armurier
+du monde.
 
 71 ----------------
-With the CRYSTAL, even
-the blind can see.
-Astos stole it from
-Matoya.
+Avec un CRISTAL, vous
+pouvez tout voir.
 
 72 ----------------
-The earth is rotting
-slowly from the west..
+La malediction de
+Dracula se propagera !
+Nous sommes condamnes !
 
 73 ----------------
-The earth is reviving!
-Thanks to you,
-LIGHT WARRIORS!
+Oh, je suppose que nous
+ne sommes pas condamnes
+apres tout.
 
 74 ----------------
-The @B..bracelet can
-protect you, like
-armor.
+Portez une armure et
+vous vivrez plus
+longtemps.
 
 75 ----------------
-Oh, did you see that
-canal? Old Nerrick truly
-is great indeed.
+Nerrick a ouvert un
+trou vers la mer !
+Nous allons tous
+se noyer !
 
 76 ----------------
-Long ago, Coneria's
-Treasury safeguarded
-the use of TNT.
+On dit que la nitro
+magique, le TNT,
+peut briser n'importe
+quel bloc.
 
 77 ----------------
-Hurray!!
+MORT a L'AUBE !
+MORT a L'AUBE !
 
 78 ----------------
-....TCELES B HSUP
-A magic spell?
+Verification de la
+carte, buvez !
 
 79 ----------------
-The Vampire of the Earth
-Cave is stealing the
-Power of the earth.
-We need your help.
+Un vampire absorbe la
+puissance de la terre.
 
 7A ----------------
-Melmond was once a
-beautiful town.
+Melmond etait autrefois
+une belle ville. Bien
+sur, j'ai du demenager
+ici juste avant
+l'eclatement de la bulle
+immobiliere.
 
 7B ----------------
-The Titan who lives in
-the tunnel eats gems.
-He loves RUBIES.
+Les Titans mangent des
+rubis et aussi la chair
+de l'homme.
 
 7C ----------------
-The Vampire is gone, but
-the earth continues to
-rot. What causes this?
+Vous avez tue un
+vampire. Maintenant
+allez tuer Dracula.
 
 7D ----------------
-I'm a farmer.
+Je suis le
+collectionneur d'os.
+Dites, combien pour
+votre omoplate ?
 
 7E ----------------
-The Earth Cave is on
-the peninsula southwest
-of this town.
+Un vampire reside dans
+la Grotte de la Terre.
 
 7F ----------------
-Look! The Earth ORB is
-shining again.
+La legende dit qu'un
+vampire ne peut etre
+vaincu que par la
+cremation de son ancien
+corps, affaiblissant
+ainsi la bete demoniaque
 
 80 ----------------
-This town was invaded by
-the Vampire. The Clinic
-was destroyed and the
-town was cursed.
+Everyone says this town
+is cursed but I like it
+here.
 
 81 ----------------
-Are you the
-LIGHT WARRIORS?
+Have you heard of the
+VAMPIRE KILLERS?
 
 82 ----------------
-Pass through the Titan's
-Tunnel, then south to
-find Sarda, the Sage.
+Sarda lives by himself,
+studying the lore of
+the vampires.
 
 83 ----------------
-The Vampire is gone, but
-the earth still rots?..
+I think it would be
+neat to be a vampire.
 
 84 ----------------
-In the northern world,
-there once was a
-prosperous civilization,
-but now it is ruins.
+Melmond was once a
+lovely town but now
+it's just a wasteland.
 
 85 ----------------
-If the ORB of Earth
-begins to shine again,
-the earth shall revive.
+Each piece of Dracula
+will weaken the beast.
 
 86 ----------------
-LIGHT WARRIORS..
-Thanks to you, the earth
-is beginning to revive..
+You defeated the beasts
+in the Earth Cave.
+Truly you are the
+VAMPIRE KILLERS.
 
 87 ----------------
-They say the ancient
-people used a stone to
-make their ship float.
+If I could just find a
+FLOATER I could fly
+across the world.
 
 88 ----------------
-OH! An AIRSHIP!
-The fables are true, it
-really exists!!
+That's a mighty fine
+AIRSHIP.
 
 89 ----------------
-Sarda does not fear the
-evils of the cave.
+Sarda does not fear
+evil. He thrives
+among the darkness.
 
 8A ----------------
-Well, well..
-You have become fine
-Warriors.
+Yes, yes, very good.
+Now go away.
 
 8B ----------------
-I am Jim. My home is the
-Dwarf Village, but I am
-here investigating.
+Shh, don't tell the
+dwarves I'm here!
 
 8C ----------------
-We, the Twelve Sages,
-were lead here by the
-stars and prophecy.
+Don't bother me while
+I'm contemplating the
+nature of existence.
 
 8D ----------------
-Once the ORBS shined
-with the power of Earth,
-Wind, Fire, and Water.
-The four FIENDS seized
-those Powers.
+Dracula rises every 100
+years, but sometimes he
+is resurrected into a
+new body. His old body,
+though, still holds
+great power.
 
 8E ----------------
-Earth, Wind, Fire, and
-Water..
-The world is bound by
-these four Powers.
+Rib, Claw, Eye, and
+Heart. Dracula is
+controlled by them.
 
 8F ----------------
-Each element's power
-focuses at its Altar.
-Locate, and crush the
-Fiend. Then to make
-it shine, place the ORB
-on the Altar it guarded!
+Supposedly there's also
+a fang, but perhaps
+that's a lie.
 
 90 ----------------
-Four FIENDS are bent on
-the world's destruction.
-200 years ago, the FIEND
-of Wind teamed with that
-of the Water to destroy
-civilization.
+The four minions of
+Dracula protect his
+power and defend him
+from heroes.
 
 91 ----------------
-The Earth FIEND causes
-the rot of our land.
+The Twin Dragons lurk
+deep in the Earth Cave.
 
 92 ----------------
-The Fire FIEND will
-burn everything up!
+Carmilla stalks the
+night and feeds on the
+blood of virgin girls!
 
 93 ----------------
-As you restore light to
-the ORBS, we will reveal
-more secrets, please see
-us repeatedly.
+As you collect the
+parts of Dracula we
+will tell you more of
+the legends.
 
 94 ----------------
-LIGHT WARRIORS,
-only you can make the
-ORBS shine again!!
+Collect the body parts!
+Defeat the Dark Prince!
 
 95 ----------------
-Quickly, before all is
-burnt, hurry to Gurgu
-Volcano and stop the
-FIEND of Fire.
+Carmilla hides in the
+Jam Wasteland. Quickly!
+Descend into its depths
+and destroy her!
 
 96 ----------------
-The Temple of FIENDS is
-in the center of the
-Four Altars. The time
-has come to destroy the
-source of evil.
+Dracula's Castle is a
+creature of chaos and
+the true source of his
+power.
 
 97 ----------------
-With the four ORBS
-shining again the Time
-Gate can be broken. The
-true enemy is 2000 years
-in the past.
+With four pieces of
+Dracula you could break
+the seal barring the
+way into his keep.
 
 98 ----------------
-The world was suddenly
-thrown into disorder.
-You must restore it.
+Evil monsters plague
+the lands!
 
 99 ----------------
-Time is repeating.
-In order to break the
-Time-Loop you must
-eliminate the enemy who
-controls from 2000 years
-in the past.
+Dracula comes back
+every 100 years,
+almost like a loop
+in time. Hmm...
 
 9A ----------------
-Someone travelled 2000
-years to the past. The
-four FIENDS were sent
-forward in time. Those
-FIENDS threaten to
-destroy the world today.
+Dracula sealed his
+castle and sent out
+his minions to protect
+his old body.
 
 9B ----------------
-I see now.
-Someone who travelled
-back 2000 years is the
-cause of the world's
-destruction. After 2000
-years he will travel
-back again..
-Then again..Then again..
+Dracula hides in his
+castle. Without the
+power to break his
+seal you'll never
+defeat him.
 
 9C ----------------
-Time will repeat itself
-every 2000 years.
-Break the Time-Loop!
+I serve lord Dracula
+and will see him rise
+again. Uh, I mean...
 
 9D ----------------
-In the Temple of FIENDS
-are the remaining SKY
-WARRIORS. They fought
-the FIENDS and are now
-bats!
+When Dracula defeats
+heroes he doesn't just
+kill them. He turns
+them into his vassals.
 
 9E ----------------
-We must use force only
-for just purposes.
+Kill the vampires and
+defeat the evil!
 
 9F ----------------
-For ten years I probed
-for the FLOATER. CANOE
-north, to the Ice Cave.
+I once knew the
+location of the FLOATER
+but I forgot it. I bet
+it's nearby...
 
 A0 ----------------
-I am Lukahn.
-Now all legends and
-prophecy will be
-fulfilled. Our path has
-been decided.
+If you truly are the
+VAMPIRE KILLERS then we
+might just be saved.
 
 A1 ----------------
-LIGHT WARRIORS, you can
-do it!
+Go, VAMPIRE KILLERS!
+Only you an defeat
+the Dark Prince.
 
 A2 ----------------
-My brother Dr. Unne has
-studied Lefeinish, the
-language of the SKY
-WARRIORS. If he had the
-SLAB, he could teach it.
+A kooky doctor once
+boasted he could read
+any language...
 
 A3 ----------------
-Soar to my brother Unne
-with the SLAB!
+That looks like a an
+interesting language.
+Perhaps there's someone
+that can translate it?
 
 A4 ----------------
 Have you found OXYALE?
 
 A5 ----------------
 You have legs!
+Give them to me!
 
 A6 ----------------
-My legs are beautiful!
-It's so nice to have
-legs.
+This land is cursed.
+I wish I could go back
+under the sea.
 
 A7 ----------------
-Underhill, the Caravan
-Master, had something
-very strange..
+I once found a strange
+caravan when I was lost
+in the desert. I've
+never found it again...
 
 A8 ----------------
-Until 200 years ago the
-Mermaids lived in the
-Shrine. Then, in fire
-and smoke, it sank. The
-Mermaids?..
+There was once a lovely
+shrine to the sea, but
+the Grim Reaper sake it
+to the ocean's floor.
 
 A9 ----------------
-Until 200 years ago, the
-Power of Water brought
-us good fortune.
+Water was our friend,
+until the Grim Reaper
+sank our shrine.
 
 AA ----------------
-The power of Water!!
-Now, our country will
-prosper like before.
+You have restored our
+connection to the sea!
 
 AB ----------------
-I saw BAHAMUT, but, to
-be honored as a true
-warrior I must return
-with proof of my
-courage.
+I once met a dragon who
+could turn me into a
+great hero, but he
+demanded gourmet food
+as payment.
 
 AC ----------------
-Well, well..
-I see you have been
-honored.
+Well, isn't someone
+mister high and mighty!
 
 AD ----------------
-Avast ye landlubbers!
-Stay out of me way.
+Boo! I'm a sea ghost!
 
 AE ----------------
-My father runs the
-caravan. He is having a
-close out sale near the
-oasis in the western
-desert.
+Pst, there's a caravan
+hidden near an oasis.
+You didn't hear it from
+me, though.
 
 AF ----------------
-Kope 'says' he saw a
-shining object fall.
+Don't listen to him
+Sea ghosts don't exist.
 
 B0 ----------------
-Fables say that when
-the shrine sank, many
-treasures were lost.
-Also, they tell of a
-cryptic stone plate.
+The only way to get to
+the underworld is to
+talk to the Ferryman.
 
 B1 ----------------
-My name is Kope.
-I saw it north, near the
-waterfall. Believe me! I
-think it was a robot.
+I am Kope, mighty hero
+of legend. Perhaps
+you've heard of me?
 
 B2 ----------------
 This town used to be
-prosperous 200 years
-ago.
+nice. And then the
+Grim Reaper ruined it.
 
 B3 ----------------
-No!
-That is just an
-unusable sample.
+I had a fleaman, but he
+ran away. I miss him.
 
 B4 ----------------
-If we cannot regain the
-Power of Water, we will
-become bubbles, then
-disappear.
+Glub glub.
 
 B5 ----------------
-Are we going to become
-bubbles?
+Don't kill me!
 
 B6 ----------------
-As long as the FIEND of
-Water lives, we..
-Oh, boo hoo.
+The Grim Reaper will
+come for you, too.
 
 B7 ----------------
-You have responded
-to me!!
+I seek only death!
 
 B8 ----------------
-This is the Shrine's top
-floor. The FIEND of
-Water, KRAKEN lives on
-the bottom floor.
+The Grim Reaper awaits
+in the depth of the
+underworld.
 
 B9 ----------------
-I suppose you are the
-legendary..
+VAMPIRE KILLERS are
+just a myth.
 
 BA ----------------
-Please save the sea,
-and make the ORB shine
-again!
+The water is befouled,
+just like the land.
 
 BB ----------------
-Now, order has returned.
-The sea will be as it
-was before, beautiful.
+The sea is saved! Now
+to wage war against
+the humans!
 
 BC ----------------
-My friend Darryl went to
-the land, then never
-returned. I've often
-wondered what happened..
-Maybe, she grew legs and
-walked away?
+One of our kind went
+to the land. She is
+dead to us now.
 
 BD ----------------
-Unbelievable!!
-You can breathe
-underwater?!
-I'm impressed!
+You're human but you
+haven't drowned!
+Evil! EVIL!
 
 BE ----------------
-To unlock the Mirage
-Tower the Lefeinish
-used a musical tone.
+Magical tunes can
+access many locked
+entrances.
 
 BF ----------------
 This door is locked by
 the mystic KEY.
 
 C0 ----------------
-This town is Gaia..
+Welcome to Gaia.
+We swear we aren't
+in league with the
+vampires.
 
 C1 ----------------
-Have you been to the
-city south of here? I
-just cannot understand
-a word spoken there.
-I have wondered what
-language..
+The Lefenish do not
+speak our language.
 
 C2 ----------------
-Legend says the SKY
-WARRIORS flew about,
-here and there, from a
-castle high in the sky.
+Once you could travel
+through the sky, but
+those days are long
+behind us.
 
 C3 ----------------
-I saw a shining object
-flying towards the east.
+Evil comes in many
+forms. Beware!
 
 C4 ----------------
-Unbelievable!
-You are outsiders,
-right?
-How did you get this far
-north?
+We built this town in
+the worst place for
+trade.
 
 C5 ----------------
-Let me see.. Yes, there
-was a professor that
-studied Lefeinish.
+I hear there's a crazy
+doctor that actually
+tried to study the
+Lefenish language.
 
 C6 ----------------
-Only a fairy can draw
-OXYALE from the spring.
+The spring is cursed.
+Only an nightmare
+creature can access it.
 
 C7 ----------------
-Everyone thinks the
-tower in Yahnikurm
-Desert is a mirage.
-I wonder..
+I feel evil coming from
+the stones in the
+desert.
 
 C8 ----------------
-Hardy har, you are too
-late! I BOTTLED the
-fairy and sold her to a
-caravan.
+I got rid of the evil
+fairy living at the
+spring. Put her in a
+BOTTLE and sold her to
+a traveling caravan.
 
 C9 ----------------
-Legends say that the
-castle in the west is a
-place to test courage.
+Are you truly strong
+enough to defeat the
+vampires? Prove it.
 
 CA ----------------
-?rewoP taerg evah uoy oD
+REDRUM! REDRUM!
 
 CB ----------------
-What's that broom up to?
-It's talking backwards!
+Brooms are inherently
+quite evil.
 
 CC ----------------
-The fairy at the spring
-was kidnapped.
+Someone stole that nice
+fairy. Mother said I
+shouldn't talk to her
+but I did and now I
+miss her.
 
 CD ----------------
-With this CHIME you can
-enter the Mirage Tower.
+Perhaps you can use
+this #
+in your fight against
+evil.
 
 CE ----------------
-The Mirage Tower was the
-gateway to our home in
-the sky.
+Once you could access
+the palace in the sky
+but then the tower was
+destroyed by an evil
+mechanical creature.
 
 CF ----------------
-400 years ago, we had an
-advanced civilization.
-Our interest was the
-universe!!
+Things were better
+in the before times.
 
 D0 ----------------
 Lu..pa..?
 Lu..pa..?
 
 D1 ----------------
-We are the Lefeinish.
-Only our bravest became
-SKY WARRIORS. Your
-AIRSHIP was theirs.
+When Dracula rose we
+sent our best heroes
+to destroy him. They
+never returned.
 
 D2 ----------------
-The FLOATING CASTLE..
-Our ancestors lived
-there. The Mirage Tower
-is the entrance.
+A place once floated
+in the sky. I wonder
+if it's still there.
 
 D3 ----------------
-At the time of
-destruction a legend was
-born..  In 400 years,
-WARRIORS with ORBS will
-appear to save our
-people .
-Are you?..
+Only true VAMPIRE
+KILLERS can defeat
+real evil. Are you...
 
 D4 ----------------
-We fought with TIAMAT,
-but were unsuccessful.
-The FIEND now inhabits
-our FLOATING CASTLE.
+A mad doctor put his
+creation into the sky
+palace, then the beast
+sealed the only way
+inside.
 
 D5 ----------------
-Our last five Warriors
-left to find the cause
-of the world's decay.
-We Know they live, but,
-as bats.
+We sent our greatest
+warriors to save the
+world, and then
+Dracula defeated them.
 
 D6 ----------------
-We knew that a great
-power controlled the
-FIENDS. Our five bravest
-Warriors left, never to
-return.
+Dracula's minions were
+too strong for our
+greatest heroes. What
+chance do you have?
 
 D7 ----------------
-We have passed on the
-legends from generation
-to generation. But 400
-years have caused our
-memories to fade.
+Dracula is the king of
+the vampires. Is he a
+kindly king?
 
 D8 ----------------
-Oh, the LIGHT WARRIORS!!
-The legend is true!
+VAMPIRE KILLERS? Here?
+I never thought I'd
+see the day.
 
 D9 ----------------
-Until 400 years ago we
-controlled the Power of
-the Wind. This enabled
-us to suspend the castle
-in the air.
+Our technology once
+powered the world until
+a mad doctor stole it
+for his necromancy.
 
 DA ----------------
-The power of Wind was
-taken by TIAMAT.
+Our technology now is
+only used for evil.
 
 DB ----------------
-Here lies Entroper
- 'IMPs are safe'
-      RIP
+VLAD DRACULA
+May he stay
+forever dead.
 
 DC ----------------
-I wonder if the robots
-made by our ancestors
-are still moving?
+Golems can be used
+for good... and evil.
 
 DD ----------------
-The FLOATING CASTLE
-floats high in the
-sky, seemingly among
-the stars.
+A glittering castle
+can sometimes be seen
+high in the sky.
 
 DE ----------------
-One of us escaped with
-a CUBE. He floated far
-to the west.
+Perhaps, with a CUBE,
+you could find a way
+to access the floating
+castle again.
 
 DF ----------------
-Transporter operation
-requires a CUBE.
+No deposit, no return.
 
 E0 ----------------
-Are you the master?
+Master... Frankenstein?
 
 E1 ----------------
-You can look out over
-the world from this
-window.
+The evils of the land
+seem so distant from
+up here.
 
 E2 ----------------
-If you are brave enough,
-try meeting the King of
-the Dragons, BAHAMUT.
+Only the truly brave
+can gain an audience
+with a dragon.
 
 E3 ----------------
-Unprofitable business
-is not a practice of the
-Dragons of Cardia.
+Treasure gleams!
 
 E4 ----------------
-Long ago, Dragons and
-humans lived and traded
-together.
+You shall never take
+my hoard!
 
 E5 ----------------
-You are not afraid of
-me??
-Then, I am impressed!
+Most humans run at the
+sight of monsters.
 
 E6 ----------------
-See your face upon the
-clean water. How dirty!
-Come! Wash your face!
+Humans are more foul
+than the curse upon
+this land.
 
 E7 ----------------
-We are going to the
-Castle of Ordeal to the
-northeast. There we will
-test, and bring back
-proof of our courage.
+It is said that the
+Castle of Ordeals is
+a true test of courage.
 
 E8 ----------------
-The proof of your
-courage might be
-anything.
+Prove your worth and
+become the true
+VAMPIRE KILLERS.
 
 E9 ----------------
-Have you met BAHAMUT,
-the Dragon King? He
-honors those with
-courage as true
-warriors.
+Dragons like their
+treasure, but they also
+know true courage when
+they see it.
 
 EA ----------------
-Only the courageous ones
-bring back the proof of
-their courage.
+Be strong and save the
+world, or be weak and
+be devoured by it.
 
 EB ----------------
-Once in the north, there
-were beautiful palaces
-and big mechanical
-castles.
+This world was once
+grand, but then the
+vampires came.
 
 EC ----------------
-This is BAHAMUT's room.
+Leave me alone.
 
 ED ----------------
-BAHAMUT verifies the
-true courage of all.
+You reek of humanity.
 
 EE ----------------
-This is a tomb.
+Plot for rent.
 
 EF ----------------
-This is a well. You
-might think that there
-is something to it..
-But in fact it is just
-an ordinary well.
+You can hear the
+screams of the damned
+from deep in Hell. No,
+wait, that was just
+your imagiantion.
 
 F0 ----------------
 In the treasure box,
-you found..
+you found.. #
 
 F1 ----------------
-Can't hold 
+Can't hold
 
 F2 ----------------
 The treasure box is
 empty!
 
 F3 ----------------
-The Altar of the Earth.
+The cleansing altar.
 
 F4 ----------------
-The Altar of the Fire.
+The cleansing altar.
 
 F5 ----------------
-The Altar of the Water.
+The cleansing altar.
 
 F6 ----------------
-The Altar of the Wind.
+The cleansing altar.
 
 F7 ----------------
-At the bottom of the
-spring, something is
-flowing.
+You could swear you see
+something deep within.
 
 F8 ----------------
-TIAMAT is the FIEND of
-the WIND..
+FRANKEN guards the
+place in the sky.
 
 F9 ----------------
-From this window one can
-see the entire world.
-The Four Forces are
-flowing together, into
-the center of the Four
-Altars. Into the Temple
-of FIENDS.
+You once could see the
+beauty of the world.
+Now I only see the
+curse that plagues it.
 
 FA ----------------
-The FIEND's ball cracks
-open.. An ominous cloud
-rises, and an evil shape
-congeals..
-It is LICH, the FIEND of
-Earth.
+From deep within the
+Earth two serpents
+rise! You face the
+TWIN DRAGONS!
 
 FB ----------------
-Is it you, the tinder
-that defeated the FIEND
-of the Earth, and
-disturbed my sleep?
-I, KARY will now show
-you the force of Fire,
-and you shall burn in
-its flames!!
+Many mortal men have
+tried to defeat me.
+You are no different.
+Try and kill me,
+CARMILLA, if you can.
 
 FC ----------------
-The FIEND's ball is
-shattered, evaporating
-all the water.
-Ho, Ho, Ho..
-How foolhardy to dare
-challenge me, KRAKEN the
-FIEND of the Water.
+You ventured deep into
+the underworld and
+here it will be your
+tomb. Fight me, the
+GRIM REAPER!
 
 FD ----------------
-Lightning erupts from
-the FIEND's ball..
-So, you have come this
-far..
-I, TIAMAT the FIEND of
-the Wind will now put an
-end to your adventure!!
+Master say must defend
+castle. You want body?
+You must die! I am
+FRANKEN and I follow
+my master's orders.
 
 FE ----------------
-What??
-You can speak Lefeinish?
+You can understand me?
+I, uh, didn't mean
+what I said earlier...
 
 FF ----------------
-There is a stone plate
-on the floor..
-You sense something..
-Evil?..
-
+Evil emanates from
+deep under this stone.
