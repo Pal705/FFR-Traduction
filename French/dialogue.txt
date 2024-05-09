@@ -447,10 +447,7 @@ center of the palace,
 the Time Gate can open.
 
 50 ----------------
-You must travel back in
-time 2000 years. Now,
-with the ORBS shining,
-stand in the Time Gate.
+Nothing here.
 
 51 ----------------
 We are the five lost

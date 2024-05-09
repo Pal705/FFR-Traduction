@@ -1,7 +1,7 @@
 # FFR-Traduction
 Traduction for FFR
 
-More information can be found here http://wiki.finalfantasyrandomizer.com/FFRDocumentation/ResourcePackFormat
+More information can be found here http://wiki.finalfantasyrandomizer.com/en/ResourcePacks/ResourcePackFormat
 
 A few things are needed to make a complete traduction
 
