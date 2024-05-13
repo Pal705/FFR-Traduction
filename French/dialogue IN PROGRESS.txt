@@ -891,16 +891,13 @@ Ces DEMONS menacent de
 detruire le monde.
 
 9B ----------------
-Je vois maintenant.
 Quelqu'un qui a voyage
 2000 ans en arriere est
 la cause de la
 destruction du monde.
 Apres 2000 ans, il
 voyagera a nouveau en
-arriere..
-Puis encore..Puis
-encore..
+arriere.. Puis encore..
 
 9C ----------------
 Le temps se repetera
@@ -911,11 +908,10 @@ Temps!
 9D ----------------
 Dans le Temple des
 DEMONS se trouvent les
-GUERRIERS DU CIEL
-restants. Ils ont combattu
-les DEMONS et sont
-maintenant des chauves-
-souris!
+GUERRIERS DU CIEL. Ils
+ont combattu les DEMONS
+et sont maintenant des
+chauves-souris!
 
 9E ----------------
 Nous devons utiliser la
@@ -925,8 +921,9 @@ fins justes.
 9F ----------------
 Pendant dix ans, j'ai
 sonde pour le FLOTTEUR.
-CANOE vers le nord,
-vers la Grotte de Glace.
+Utilise le CANOE vers le
+nord, vers la Grotte de
+Glace.
 
 A0 ----------------
 Je suis Lukahn.
@@ -966,17 +963,18 @@ C'est si bon d'avoir
 des jambes.
 
 A7 ----------------
-Underhill, le Maitre du
-Caravane, avait quelque
-chose de tres etrange..
+Underhill, le Maitre de
+la Caravane, avait
+quelque chose de tres
+etrange..
 
 A8 ----------------
 Jusqu'a 200 ans
 auparavant, les
 Sirenes vivaient dans
-le Sanctuaire. Puis, dans
-le feu et la fumee, il
-a coule. Les Sirenes?..
+le Sanctuaire. Puis,
+dans le feu et la fumee,
+il a coule. Les Sirenes?
 
 A9 ----------------
 Jusqu'a 200 ans
@@ -1002,7 +1000,7 @@ Je vois que vous avez
 ete honores.
 
 AD ----------------
-Avast ye terreux!
+Bougez-vous terreux!
 Restez hors de mon
 chemin.
 
@@ -1015,7 +1013,8 @@ desert de l'ouest.
 
 AF ----------------
 Kope 'dit' qu'il a vu
-un objet brillant tomber.
+un objet brillant
+tomber.
 
 B0 ----------------
 Les fables disent que
@@ -1023,15 +1022,14 @@ quand le sanctuaire a
 coule, beaucoup de
 tresors ont ete perdus.
 Ils parlent aussi d'une
-plaque de pierre
-cryptique.
+plaque de pierre.
 
 B1 ----------------
 Mon nom est Kope.
 Je l'ai vu au nord, pres
 de la cascade. Croyez-
-moi! Je pense que c'etait
-un robot.
+moi! Je pense que
+c'etait un robot.
 
 B2 ----------------
 Cette ville etait
@@ -1039,7 +1037,8 @@ prospere il y a 200 ans.
 
 B3 ----------------
 Non!
-C'est juste un echantillon
+C'est juste un
+echantillon
 inutilisable.
 
 B4 ----------------
@@ -1087,9 +1086,6 @@ allee sur la terre, puis
 n'est jamais revenue. Je
 me suis souvent demande
 ce qui s'est passe..
-Peut-etre, elle a fait
-pousser des jambes et
-s'est enfuie?
 
 BD ----------------
 Incroyable!!
@@ -1104,8 +1100,9 @@ ont utilise un ton
 musical.
 
 BF ----------------
-Cette porte est verrouillee
-par la cle mystique.
+Cette porte est
+verrouillee par la CLE
+mystique.
 
 C0 ----------------
 Cette ville est Gaia..
@@ -1116,8 +1113,6 @@ au sud d'ici? Je ne peux
 tout simplement pas
 comprendre un mot qui y
 est dit.
-Je me suis demande
-quelle langue..
 
 C2 ----------------
 La legende dit que les
@@ -1158,7 +1153,7 @@ mirage.
 Je me demande..
 
 C8 ----------------
-Hardy har, vous etes
+Har har, vous etes
 trop tard! J'ai mis la
 fee en BOUTEILLE et je
 l'ai vendue a une
@@ -1171,7 +1166,7 @@ un lieu pour tester le
 courage.
 
 CA ----------------
-?rewoP taerg evah uoy oD
+?riovuop dnarg nu tu-sA
 
 CB ----------------
 Qu'est-ce que ce balai
@@ -1209,7 +1204,7 @@ Lefeinish.
 Seuls nos plus braves
 sont devenus des
 GUERRIERS DU CIEL. Votre
-AERONEF etait le leur.
+VAISSEAU etait le leur.
 
 D2 ----------------
 Le CHATEAU FLOTTANT..
@@ -1223,25 +1218,73 @@ destruction, une legende
 est nee.. Dans 400 ans,
 des GUERRIERS avec des
 ORBS apparaitront pour
-sauver notre peuple .
-Etes-vous?..
+sauver notre peuple.
 
 D4 ----------------
-Nous avons combattu avec
+Nous avons combattu
 TIAMAT, mais sans
-succes.
-Le DEMON habite
-maintenant notre CHATEAU
-FLOTTANT.
+succes. Le DEMON
+habite maintenant notre
+CHATEAU FLOTTANT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 D5 ----------------
 Nos cinq derniers
 Guerriers sont partis
 pour trouver la cause de
-la decadence du monde.
-Nous savons qu'ils
-vivent, mais, en tant
-que chauves-souris.
+la decadence. Nous
+savons qu'ils vivent,
+mais, en tant que
+chauves-souris.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 D6 ----------------
 Nous savions qu'un grand
@@ -1298,8 +1341,9 @@ avec un CUBE. Il a
 flotte loin a l'ouest.
 
 DF ----------------
-Operation du transporteur
-necessite un CUBE.
+Operation du
+transporteur necessite
+un CUBE.
 
 E0 ----------------
 Etes-vous le maitre?
@@ -1310,8 +1354,8 @@ cette fenetre.
 
 E2 ----------------
 Si vous etes courageux,
-rencontrez le Roi des
-Dragons, BAHAMUT.
+aller rencontrer le Roi
+des Dragons, BAHAMUT.
 
 E3 ----------------
 Affaires non rentables
@@ -1320,8 +1364,8 @@ des Dragons de Cardia.
 
 E4 ----------------
 Dragons et humains
-vivaient et commerciaient
-ensemble.
+vivaient et faisaient
+du commerce ensemble.
 
 E5 ----------------
 Vous n'avez pas peur de
@@ -1330,15 +1374,17 @@ impressionne!
 
 E6 ----------------
 Voyez votre visage sur
-l'eau propre. Comme c'est
-sale! Venez! Lavez-vous!
+l'eau propre. Comme
+c'est sale! Venez!
+Lavez-vous!
 
 E7 ----------------
-Nous allons au Chateau de
-l'Epreuve au nord-est.
-La, nous testerons et
-ramenerons la preuve de
-notre courage.
+Nous allons au Chateau
+de l'Epreuve au
+nord-est. La, nous
+testerons et ramenerons
+la preuve de notre
+courage.
 
 E8 ----------------
 La preuve de votre
@@ -1410,7 +1456,7 @@ quelque chose coule.
 
 F8 ----------------
 TIAMAT est le DEMON du
-VENT..
+VENT.
 
 F9 ----------------
 De cette fenetre, on
@@ -1430,11 +1476,11 @@ congele.. C'est LICH, le
 DEMON de la Terre.
 
 FB ----------------
-Est-ce vous, l'amadou qui
-a vaincu le DEMON de la
-Terre, et perturbe mon
-sommeil? Moi, KARY, je
-vais maintenant vous
+Est-ce vous, l'amadou
+qui a vaincu le DEMON de
+la Terre, et perturbe
+mon sommeil? Moi, KARY,
+je vais maintenant vous
 montrer la force du Feu,
 et vous brulerez dans
 ses flammes!!

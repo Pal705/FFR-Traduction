@@ -2,7 +2,7 @@
   {
     "Name": "CURE",
     "TextPointer": 1,
-    "Message": "HP up!",
+    "Message": "HP restaure!",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -36,7 +36,7 @@
   {
     "Name": "FOG ",
     "TextPointer": 2,
-    "Message": "Armor up",
+    "Message": "Armure augmente",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -53,7 +53,7 @@
   {
     "Name": "RUSE",
     "TextPointer": 3,
-    "Message": "Easy to dodge",
+    "Message": "Evasion augmente",
     "accuracy": 0,
     "elem": "None",
     "targeting": "Self",
@@ -104,7 +104,7 @@
   {
     "Name": "LOCK",
     "TextPointer": 5,
-    "Message": "Easy to hit",
+    "Message": "Esquive diminue",
     "accuracy": 64,
     "elem": "None",
     "targeting": "OneEnemy",
@@ -172,7 +172,7 @@
   {
     "Name": "ALIT",
     "TextPointer": 8,
-    "Message": "Defend lightning",
+    "Message": "Defense electrique",
     "accuracy": 0,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -189,7 +189,7 @@
   {
     "Name": "INVS",
     "TextPointer": 3,
-    "Message": "Easy to dodge",
+    "Message": "Evasion augmente",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -240,7 +240,7 @@
   {
     "Name": "TMPR",
     "TextPointer": 10,
-    "Message": "Weapons stronger",
+    "Message": "Attaque augmente",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -257,7 +257,7 @@
   {
     "Name": "SLOW",
     "TextPointer": 11,
-    "Message": "Attack rate down",
+    "Message": "Attaque diminue",
     "accuracy": 64,
     "elem": "Status",
     "targeting": "AllEnemies",
@@ -273,7 +273,7 @@
   {
     "Name": "CUR2",
     "TextPointer": 1,
-    "Message": "HP up!",
+    "Message": "HP restaure!",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -307,7 +307,7 @@
   {
     "Name": "AFIR",
     "TextPointer": 12,
-    "Message": "Defend fire",
+    "Message": "Defense feu",
     "accuracy": 0,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -324,7 +324,7 @@
   {
     "Name": "HEAL",
     "TextPointer": 1,
-    "Message": "HP up!",
+    "Message": "HP restaure!",
     "accuracy": 0,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -358,7 +358,7 @@
   {
     "Name": "HOLD",
     "TextPointer": 13,
-    "Message": "Attack halted",
+    "Message": "Paralyse",
     "accuracy": 64,
     "elem": "Status",
     "targeting": "OneEnemy",
@@ -392,7 +392,7 @@
   {
     "Name": "LOK2",
     "TextPointer": 5,
-    "Message": "Easy to hit",
+    "Message": "Esquive diminue",
     "accuracy": 64,
     "elem": "None",
     "targeting": "AllEnemies",
@@ -426,7 +426,7 @@
   {
     "Name": "FEAR",
     "TextPointer": 15,
-    "Message": "Became terrified",
+    "Message": "Devient terrifier",
     "accuracy": 24,
     "elem": "Status",
     "targeting": "AllEnemies",
@@ -443,7 +443,7 @@
   {
     "Name": "AICE",
     "TextPointer": 16,
-    "Message": "Defend cold",
+    "Message": "Defense glace",
     "accuracy": 0,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -494,7 +494,7 @@
   {
     "Name": "FAST",
     "TextPointer": 18,
-    "Message": "Quick shot",
+    "Message": "Double attaque",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -545,7 +545,7 @@
   {
     "Name": "CUR3",
     "TextPointer": 1,
-    "Message": "HP up!",
+    "Message": "HP restaure!",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -562,7 +562,7 @@
   {
     "Name": "LIFE",
     "TextPointer": 74,
-    "Message": "Ineffective now",
+    "Message": "Non effectif",
     "accuracy": 255,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -595,7 +595,7 @@
   {
     "Name": "HEL2",
     "TextPointer": 1,
-    "Message": "HP up!",
+    "Message": "HP restaure!",
     "accuracy": 0,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -629,7 +629,7 @@
   {
     "Name": "BANE",
     "TextPointer": 77,
-    "Message": "Poison smoke",
+    "Message": "Empoisonner",
     "accuracy": 40,
     "elem": "Poison",
     "targeting": "AllEnemies",
@@ -646,7 +646,7 @@
   {
     "Name": "WARP",
     "TextPointer": 74,
-    "Message": "Ineffective now",
+    "Message": "Non effectif",
     "accuracy": 255,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -662,7 +662,7 @@
   {
     "Name": "SLO2",
     "TextPointer": 11,
-    "Message": "Attack rate down",
+    "Message": "Attaque diminue",
     "accuracy": 64,
     "elem": "None",
     "targeting": "OneEnemy",
@@ -678,7 +678,7 @@
   {
     "Name": "SOFT",
     "TextPointer": 74,
-    "Message": "Ineffective now",
+    "Message": "Non effectif",
     "accuracy": 255,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -694,7 +694,7 @@
   {
     "Name": "EXIT",
     "TextPointer": 74,
-    "Message": "Ineffective now",
+    "Message": "Non effectif",
     "accuracy": 255,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -727,7 +727,7 @@
   {
     "Name": "INV2",
     "TextPointer": 3,
-    "Message": "Easy to dodge",
+    "Message": "Evasion augmente",
     "accuracy": 0,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -862,7 +862,7 @@
   {
     "Name": "HEL3",
     "TextPointer": 1,
-    "Message": "HP up!",
+    "Message": "HP restaure!",
     "accuracy": 48,
     "elem": "None",
     "targeting": "AllCharacters",
@@ -913,7 +913,7 @@
   {
     "Name": "SABR",
     "TextPointer": 27,
-    "Message": "Weapon became enchanted",
+    "Message": "Attaque augmente",
     "accuracy": 10,
     "elem": "None",
     "targeting": "Self",
@@ -947,7 +947,7 @@
   {
     "Name": "LIF2",
     "TextPointer": 74,
-    "Message": "Ineffective now",
+    "Message": "Non effectif",
     "accuracy": 255,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -980,7 +980,7 @@
   {
     "Name": "WALL",
     "TextPointer": 28,
-    "Message": "Defend all",
+    "Message": "Defense magique",
     "accuracy": 0,
     "elem": "None",
     "targeting": "OneCharacter",
@@ -997,7 +997,7 @@
   {
     "Name": "XFER",
     "TextPointer": 29,
-    "Message": "Defenseless",
+    "Message": "Sans défense",
     "accuracy": 107,
     "elem": "None",
     "targeting": "OneEnemy",
@@ -1030,7 +1030,7 @@
   {
     "Name": "STOP",
     "TextPointer": 30,
-    "Message": "Time stopped",
+    "Message": "Temps arrete",
     "accuracy": 48,
     "elem": "Time",
     "targeting": "AllEnemies",
@@ -1047,7 +1047,7 @@
   {
     "Name": "ZAP!",
     "TextPointer": 31,
-    "Message": "Exile to 4th dimension",
+    "Message": "Exile dans la 4e dimension",
     "accuracy": 32,
     "elem": "Time",
     "targeting": "AllEnemies",
@@ -1064,7 +1064,7 @@
   {
     "Name": "XXXX",
     "TextPointer": 21,
-    "Message": "Erased",
+    "Message": "Efface",
     "accuracy": 0,
     "elem": "Death",
     "targeting": "OneEnemy",
